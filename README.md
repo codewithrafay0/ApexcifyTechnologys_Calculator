@@ -14,8 +14,6 @@ This is a **Calculator project** created as part of my **Front-End Development I
 - CSS3  
 - JavaScript  
 
-## 🚀 Live Demo
-[View Calculator Demo](https://your-username.github.io/ApexcifyTechnologys_Calculator/)  
 
 ---
 Created with ❤️ by Abdur Rafay
