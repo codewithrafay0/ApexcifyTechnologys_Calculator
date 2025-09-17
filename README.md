@@ -1,2 +1,21 @@
-# ApexcifyTechnologys_Calculator
-A simple Calculator built with HTML, CSS, and JavaScript — Internship Task for Apexcify Technologys  Calculator project with Dark/Light Mode, keyboard support, and real-time results — Apexcify Internship  Frontend Development Internship Task: Calculator using HTML, CSS &amp; JS (with theme toggle)
+# Calculator — Apexcify Technologys Internship Task
+
+This is a **Calculator project** created as part of my **Front-End Development Internship at Apexcify Technologys**.  
+
+## 🌟 Features
+- Arithmetic operations: `+`, `−`, `×`, `÷`
+- Real-time result display
+- Keyboard input support
+- Clear (C) and Backspace (⌫)
+- Modern **Dark/Light Mode toggle**
+
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
+
+## 🚀 Live Demo
+[View Calculator Demo](https://your-username.github.io/ApexcifyTechnologys_Calculator/)  
+
+---
+Created with ❤️ by Abdur Rafay
